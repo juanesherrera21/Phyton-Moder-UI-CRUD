@@ -13,4 +13,4 @@ if data.status_code==200:
         print(e['user_name'])
         print(e['codigo_zip'])
         print(e['cantidad_compras_realizadas'])
-        
+
